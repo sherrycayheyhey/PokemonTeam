@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Mystic" android:id="@+id/mystic"></item>
+    <item android:title="Valor" android:id="@+id/valor"></item>
+    <item android:title="Instinct" android:id="@+id/instinct"></item>
+
+</menu>
